@@ -1,0 +1,9 @@
+GetName what is my name
+GetName what's my name
+GetName can you tell me what my name is
+
+SetName my name is {Simon|Name}
+SetName {Simon|Name} is my name
+SetName it is {Simon|Name}
+SetName call me {Simon|Name}
+SetName I am {Simon|Name}
